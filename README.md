@@ -1,4 +1,4 @@
-# Respositório de recursos para o curso de Mongo DB - Renan Pallin
+# Respositório de recursos para o curso de Mongo DB 
 
 O repositório consiste em duas bases de dados que são utilizadas no curso de Mongo DB.
 
@@ -16,7 +16,3 @@ https://www.kaggle.com/shivamb/netflix-shows
 
 https://www.kaggle.com/terminus7/pokemon-challenge
 
-## Author
-
-Instagram:
-@pallinrenan
